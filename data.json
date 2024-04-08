@@ -1,0 +1,633 @@
+{
+    "reels": [
+      {
+        "card": "card1",
+        "reelVideo": "../Reels/50.mp4",
+        "userName": "thejeetahirwar",
+        "praise": "Stunning! ✨",
+        "likeIcon": "",
+        "shareIcon": "",
+        "commentIcon": "",
+        "reportIcon": "",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card2",
+        "reelVideo": "../Reels/29.mp4",
+        "userName": "User2",
+        "praise": "Beautiful! 💖",
+        "likeIcon": "",
+        "shareIcon": "",
+        "commentIcon": "",
+        "reportIcon": "",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card3",
+        "reelVideo": "../Reels/1.mp4",
+        "userName": "User3",
+        "praise": "Lovely! 🌸",
+        "likeIcon": "",
+        "shareIcon": "",
+        "commentIcon": "",
+        "reportIcon": "",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card4",
+        "reelVideo": "../Reels/2.mp4",
+        "userName": "akx.putf_",
+        "praise": "Radiant! ☀️",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "reelTiming": 35
+      },
+      {
+        "card": "card5",
+        "reelVideo": "../Reels/3.mp4",
+        "userName": "aarya_kulkarniii",
+        "praise": "Flawless! 💫",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card6",
+        "reelVideo": "../Reels/4.mp4",
+        "userName": "aarya_kulkarniii",
+        "praise": "Elegant! 🌹",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card7",
+        "reelVideo": "../Reels/5.mp4",
+        "userName": "User7",
+        "praise": "Amazing! 🌟",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card8",
+        "reelVideo": "../Reels/6.mp4",
+        "userName": "User8",
+        "praise": "Gorgeous! 😍",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card9",
+        "reelVideo": "../Reels/7.mp4",
+        "userName": "soniya_1_47",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "reelTiming": 35000
+      },
+      {
+        "card": "card10",
+        "reelVideo": "../Reels/8.mp4",
+        "userName": "tapsaya_rajputt",
+        "praise": "Absolutely stunning! 😍✨",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card11",
+        "reelVideo": "../Reels/9.mp4",
+        "userName": "User11",
+        "praise": "Simply beautiful! 💖🌸",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card12",
+        "reelVideo": "../Reels/10.mp4",
+        "userName": "User12",
+        "praise": "Pure elegance! 🌹💫",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card13",
+        "reelVideo": "../Reels/11.mp4",
+        "userName": "User13",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card14",
+        "reelVideo": "../Reels/12.mp4",
+        "userName": "User14",
+        "praise": "Totally captivating! 🔥💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card15",
+        "reelVideo": "../Reels/13.mp4",
+        "userName": "User15",
+        "praise": "Incredibly gorgeous! ✨🌹",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card16",
+        "reelVideo": "../Reels/14.mp4",
+        "userName": "User16",
+        "praise": "Effortlessly chic! 💃🌟",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card17",
+        "reelVideo": "../Reels/15.mp4",
+        "userName": "User17",
+        "praise": "Absolutely mesmerizing! 💫😍",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card18",
+        "reelVideo": "../Reels/16.mp4",
+        "userName": "User18",
+        "praise": "Flawlessly beautiful! 🌸💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card19",
+        "reelVideo": "../Reels/17.mp4",
+        "userName": "User19",
+        "praise": "Truly stunning! 😍🔥",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card20",
+        "reelVideo": "../Reels/28.mp4",
+        "userName": "User20",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card21",
+        "reelVideo": "../Reels/29.mp4",
+        "userName": "khushi_tiwari_774",
+        "praise": "Totally captivating! 🔥💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card22",
+        "reelVideo": "../Reels/20.mp4",
+        "userName": "_bestie_ki_jaan_07",
+        "praise": "Incredibly gorgeous! ✨🌹",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card23",
+        "reelVideo": "../Reels/21.mp4",
+        "userName": "User23",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card23",
+        "reelVideo": "../Reels/22.mp4",
+        "userName": "User23",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      },
+      {
+        "card": "card23",
+        "reelVideo": "../Reels/23.mp4",
+        "userName": "User23",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png",
+        "timing": 35000
+      }
+    ],
+
+
+
+
+    "imagesData": [
+      {
+        "id": 1,
+        "image": "../images/1.jpeg",
+        "text1": "Stunning Beauty",
+        "text2": "इन्हीं को सुकून, इन्हीं को कहर लिखा हैं..💖\n हमने तेरी निगाहों को खूबसूरत शहर लिखा हैं .. !!❤️"
+      },
+      {
+        "id": 2,
+        "image": "../images/2.jpeg",
+        "text1": "Charismatic Sensation",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 3,
+        "image": "../images/3.jpg",
+        "text1": "Soulful Actress",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 4,
+        "image": "../images/4.jpeg",
+        "text1": "Endearing Persona",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 5,
+        "image": "../images/5.jpeg",
+        "text1": "Captivating Presence",
+        "text2": "अब क्या लिखूँ उसकी प्यारी मुस्कान के बारे मे । \n बस कुछ यूँ समझ लो .. चमकता चाँद है लाखों सितारों में ..♥️ । "
+      },
+      {
+        "id": 6,
+        "image": "../images/6.jpeg",
+        "text1": "Timeless Elegance",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 7,
+        "image": "../images/7.jpg",
+        "text1": "Powerhouse Actress",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 8,
+        "image": "../images/8.jpg",
+        "text1": "Mesmerizing Charm",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 9,
+        "image": "../images/9.jpg",
+        "text1": "Radiant Star",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 10,
+        "image": "../images/10.jpg",
+        "text1": "Effortless Grace",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 11,
+        "image": "../images/11.jpeg",
+        "text1": "Enigmatic Beauty",
+        "text2": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 12,
+        "image": "../images/12.jpeg",
+        "text1": "Dynamic Talent",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 13,
+        "image": "../images/13.jpeg",
+        "text1": "Iconic Diva",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 14,
+        "image": "../images/14.jpeg",
+        "text1": "Spellbinding Actress",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 15,
+        "image": "../images/15.jpeg",
+        "text1": "Ethereal Aura",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 16,
+        "image": "../images/16.jpeg",
+        "text1": "Magnetic Personality",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 17,
+        "image": "../images/17.jpeg",
+        "text1": "Phenomenal Acting",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 18,
+        "image": "../images/18.jpeg",
+        "text1": "Endearing Aura",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 19,
+        "image": "../images/19.jpeg",
+        "text1": "Enchanting Grace",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 20,
+        "image": "../images/20.jpeg",
+        "text1": "Bollywood Gem",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 21,
+        "image": "../images/21.jpeg",
+        "text1": "Charismatic Sensation",
+        "text2": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 22,
+        "image": "../images/22.jpeg",
+        "text1": "Wholesome Appeal",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 23,
+        "image": "../images/23.jpeg",
+        "text1": "Sparkling Brilliance",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 24,
+        "image": "../images/24.jpeg",
+        "text1": "Mesmerizing Aura",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 25,
+        "image": "../images/25.jpeg",
+        "text1": "Charismatic Energy",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 26,
+        "image": "../images/26.jpeg",
+        "text1": "Inspirational Icon",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 27,
+        "image": "../images/27.jpeg",
+        "text1": "Phenomenal Spark",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 28,
+        "image": "../images/28.jpeg",
+        "text1": "Inspirational Maverick",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 29,
+        "image": "../images/29.jpeg",
+        "text1": "Ethereal Enchantment",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 30,
+        "image": "../images/30.jpeg",
+        "text1": "Mesmerizing Magnetism",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 31,
+        "image": "../images/31.jpeg",
+        "text1": "Dynamic Performer",
+        "text2": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 32,
+        "image": "../images/32.jpeg",
+        "text1": "Effulgent Star",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 33,
+        "image": "../images/33.jpeg",
+        "text1": "Impeccable Class",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 34,
+        "image": "../images/34.jpeg",
+        "text1": "Phenomenal Presence",
+        "text2": "निगाहों से तेरे दिल पर पैगाम लिख दूं \n तुम कहो तो अपनी रूह तेरे नाम लिख दूं.💕"
+      },
+      {
+        "id": 35,
+        "image": "../images/35.jpeg",
+        "text1": "Bollywood's Pride",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 36,
+        "image": "../images/36.jpeg",
+        "text1": "Classic Sophistication",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 37,
+        "image": "../images/37.jpeg",
+        "text1": "Breath-taking Talent",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 38,
+        "image": "../images/38.jpeg",
+        "text1": "Heartfelt Performances",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 39,
+        "image": "../images/39.jpeg",
+        "text1": "Graceful Artistry",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 40,
+        "image": "../images/40.jpeg",
+        "text1": "Stellar Acting",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 41,
+        "image": "../images/41.jpeg",
+        "text1": "Evergreen Beauty",
+        "text2": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 42,
+        "image": "../images/42.jpeg",
+        "text1": "Unforgettable Charisma",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 43,
+        "image": "../images/43.jpeg",
+        "text1": "Effervescent Energy",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 44,
+        "image": "../images/44.jpeg",
+        "text1": "Poised Dignity",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 45,
+        "image": "../images/45.jpeg",
+        "text1": "Iconic Fashionista",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 46,
+        "image": "../images/46.jpeg",
+        "text1": "Impeccable Style",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 47,
+        "image": "../images/47.jpeg",
+        "text1": "Inspiring Role Model",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 48,
+        "image": "../images/48.jpeg",
+        "text1": "Eternal Glamour",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 49,
+        "image": "../images/49.jpeg",
+        "text1": "Soulful Performer",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 50,
+        "image": "../images/50.jpeg",
+        "text1": "Talented Trailblazer",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 51,
+        "image": "../images/51.jpeg",
+        "text1": "Ethereal Enchantment",
+        "text2": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 52,
+        "image": "../images/52.jpeg",
+        "text1": "Mesmerizing Diva",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 53,
+        "image": "../images/53.jpeg",
+        "text1": "Wholesome Magnetism",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 54,
+        "image": "../images/54.jpeg",
+        "text1": "Timeless Sophistication",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 55,
+        "image": "../images/55.jpeg",
+        "text1": "Charismatic Charmer",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 56,
+        "image": "../images/56.jpeg",
+        "text1": "Timeless Sophistication",
+        "text2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "id": 57,
+        "image": "../images/57.jpeg",
+        "text1": "Endearing Grace",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+  }
+
+
+
+
+  
+  
