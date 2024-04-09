@@ -840,7 +840,7 @@ main {
 
     .reels {
         max-width: 75% !important;
-        height: 100vh;
+        height: 50vh;
         display: flex;
         align-items: center;
         overflow: auto;
@@ -859,7 +859,7 @@ main {
         max-height: 50vh;
         overflow-x: auto;
         /* margin-left: 150px; */
-        margin-bottom: 360px;
+        margin-bottom: 20px;
     }
 
     .cards::-webkit-scrollbar {
@@ -869,15 +869,14 @@ main {
 
     .cards .card:nth-child(1) {
         margin-left: 286rem;
-        margin-top: 0px;
-
+        margin-top: 40px;
     }
 
     .card {
         min-width: 180px;
         height: 250px;
         margin-left: 15px;
-        margin-top: 0px;
+        margin-top: 40px;
         overflow: hidden;
     }
 
@@ -886,6 +885,7 @@ main {
         width: 100%;
         height: auto;
         display: block;
+        margin-bottom: 30px;
     }
 
     .con3 {
