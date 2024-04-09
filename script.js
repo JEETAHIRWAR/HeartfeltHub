@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             const buyMeCoffeeButton = document.createElement('div');
             buyMeCoffeeButton.classList.add('buyMeCoffeeButton');
-            buyMeCoffeeButton.innerHTML = `<a href="https://www.buymeacoffee.com/jeetahirwar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 207px !important;" ></a>`;
+            buyMeCoffeeButton.innerHTML = `<a href="https://www.buymeacoffee.com/jeetahirwar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 175px !important;" ></a>`;
 
 
             firstCon.appendChild(buyMeCoffeeButton);
