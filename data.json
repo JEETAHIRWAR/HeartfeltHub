@@ -1,279 +1,464 @@
 {
     "reels": [
       {
-        "card": "card1",
+        "cardId": 1,
         "reelVideo": "../Reels/50.mp4",
         "userName": "thejeetahirwar",
         "praise": "Stunning! ✨",
         "likeIcon": "",
         "shareIcon": "",
         "commentIcon": "",
-        "reportIcon": "",
-        "reelTiming": 35000
+        "reportIcon": ""
       },
       {
-        "card": "card2",
+        "cardId": 2,
         "reelVideo": "../Reels/29.mp4",
         "userName": "User2",
         "praise": "Beautiful! 💖",
         "likeIcon": "",
         "shareIcon": "",
         "commentIcon": "",
-        "reportIcon": "",
-        "reelTiming": 35000
+        "reportIcon": ""
       },
       {
-        "card": "card3",
-        "reelVideo": "../Reels/1.mp4",
-        "userName": "User3",
+        "cardId": 3,
+        "reelVideo": "../Reels/41.mp4",
+        "userName": "Shraddhakapoor",
         "praise": "Lovely! 🌸",
         "likeIcon": "",
         "shareIcon": "",
         "commentIcon": "",
-        "reportIcon": "",
-        "reelTiming": 35000
+        "reportIcon": ""
       },
       {
-        "card": "card4",
+        "cardId": 3,
+        "reelVideo": "../Reels/1.mp4",
+        "userName": "OnlySong",
+        "praise": "Lovely! 🌸",
+        "likeIcon": "",
+        "shareIcon": "",
+        "commentIcon": "",
+        "reportIcon": ""
+      },
+      {
+        "cardId": 4,
         "reelVideo": "../Reels/2.mp4",
-        "userName": "akx.putf_",
+        "userName": "_its_me_maheen_",
         "praise": "Radiant! ☀️",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "reelTiming": 35
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card5",
+        "cardId": 5,
         "reelVideo": "../Reels/3.mp4",
-        "userName": "aarya_kulkarniii",
+        "userName": "arpitamatta_23",
         "praise": "Flawless! 💫",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "reelTiming": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card6",
+        "cardId": 6,
         "reelVideo": "../Reels/4.mp4",
         "userName": "aarya_kulkarniii",
         "praise": "Elegant! 🌹",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "reelTiming": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card7",
+        "cardId": 7,
         "reelVideo": "../Reels/5.mp4",
-        "userName": "User7",
+        "userName": "the_aayushaa",
         "praise": "Amazing! 🌟",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "reelTiming": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card8",
+        "cardId": 8,
         "reelVideo": "../Reels/6.mp4",
-        "userName": "User8",
+        "userName": "_akshitadwivedi_",
         "praise": "Gorgeous! 😍",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "reelTiming": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card9",
+        "cardId": 9,
         "reelVideo": "../Reels/7.mp4",
-        "userName": "soniya_1_47",
+        "userName": "aarya_kulkarniii",
         "praise": "Mesmerizing! 💃",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "reelTiming": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card10",
+        "cardId": 10,
         "reelVideo": "../Reels/8.mp4",
-        "userName": "tapsaya_rajputt",
+        "userName": "Song_only",
         "praise": "Absolutely stunning! 😍✨",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card11",
+        "cardId": 11,
         "reelVideo": "../Reels/9.mp4",
-        "userName": "User11",
+        "userName": "OnlySong",
         "praise": "Simply beautiful! 💖🌸",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card12",
+        "cardId": 12,
         "reelVideo": "../Reels/10.mp4",
-        "userName": "User12",
+        "userName": "tapasya_rajputt",
         "praise": "Pure elegance! 🌹💫",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card13",
+        "cardId": 13,
         "reelVideo": "../Reels/11.mp4",
-        "userName": "User13",
+        "userName": "OnlySong",
         "praise": "Utterly radiant! ☀️💖",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card14",
+        "cardId": 14,
         "reelVideo": "../Reels/12.mp4",
-        "userName": "User14",
+        "userName": "anjali.thakur414",
         "praise": "Totally captivating! 🔥💃",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card15",
+        "cardId": 14,
+        "reelVideo": "../Reels/42.mp4",
+        "userName": "Sukoon",
+        "praise": "Totally captivating! 🔥💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 15,
         "reelVideo": "../Reels/13.mp4",
-        "userName": "User15",
+        "userName": "Sukoon",
         "praise": "Incredibly gorgeous! ✨🌹",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card16",
+        "cardId": 16,
         "reelVideo": "../Reels/14.mp4",
-        "userName": "User16",
+        "userName": "_______",
         "praise": "Effortlessly chic! 💃🌟",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card17",
+        "cardId": 17,
         "reelVideo": "../Reels/15.mp4",
-        "userName": "User17",
+        "userName": "Excitement",
         "praise": "Absolutely mesmerizing! 💫😍",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card18",
+        "cardId": 18,
         "reelVideo": "../Reels/16.mp4",
-        "userName": "User18",
+        "userName": "khushi_jiiiiiiiiii",
         "praise": "Flawlessly beautiful! 🌸💖",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card19",
+        "cardId": 19,
         "reelVideo": "../Reels/17.mp4",
-        "userName": "User19",
+        "userName": "jharananewpane",
         "praise": "Truly stunning! 😍🔥",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card20",
-        "reelVideo": "../Reels/28.mp4",
-        "userName": "User20",
-        "praise": "Utterly radiant! ☀️💖",
-        "likeIcon": "/path/to/like_icon.png",
-        "shareIcon": "/path/to/share_icon.png",
-        "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
-      },
-      {
-        "card": "card21",
-        "reelVideo": "../Reels/29.mp4",
+        "cardId": 21,
+        "reelVideo": "../Reels/21.mp4",
         "userName": "khushi_tiwari_774",
         "praise": "Totally captivating! 🔥💃",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card22",
-        "reelVideo": "../Reels/20.mp4",
+        "cardId": 22,
+        "reelVideo": "../Reels/22.mp4",
         "userName": "_bestie_ki_jaan_07",
         "praise": "Incredibly gorgeous! ✨🌹",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
       },
       {
-        "card": "card23",
-        "reelVideo": "../Reels/21.mp4",
-        "userName": "User23",
-        "praise": "Mesmerizing! 💃",
-        "likeIcon": "/path/to/like_icon.png",
-        "shareIcon": "/path/to/share_icon.png",
-        "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
-      },
-      {
-        "card": "card23",
-        "reelVideo": "../Reels/22.mp4",
-        "userName": "User23",
-        "praise": "Mesmerizing! 💃",
-        "likeIcon": "/path/to/like_icon.png",
-        "shareIcon": "/path/to/share_icon.png",
-        "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
-      },
-      {
-        "card": "card23",
+        "cardId": 23,
         "reelVideo": "../Reels/23.mp4",
+        "userName": "soniya_1_47",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 24,
+        "reelVideo": "../Reels/24.mp4",
+        "userName": "_akshitadwivedi_",
+        "praise": "Elegant! 🌹",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 25,
+        "reelVideo": "../Reels/25.mp4",
+        "userName": "aarya_kulkarniii",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 26,
+        "reelVideo": "../Reels/26.mp4",
         "userName": "User23",
         "praise": "Mesmerizing! 💃",
         "likeIcon": "/path/to/like_icon.png",
         "shareIcon": "/path/to/share_icon.png",
         "commentIcon": "/path/to/comment_icon.png",
-        "reportIcon": "/path/to/report_icon.png",
-        "timing": 35000
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 27,
+        "reelVideo": "../Reels/27.mp4",
+        "userName": "User23",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 28,
+        "reelVideo": "../Reels/28.mp4",
+        "userName": "User23",
+        "praise": "Truly stunning! 😍🔥",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 29,
+        "reelVideo": "../Reels/29.mp4",
+        "userName": "User23",
+        "praise": "Pure elegance! 🌹💫",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 30,
+        "reelVideo": "../Reels/30.mp4",
+        "userName": "User23",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 31,
+        "reelVideo": "../Reels/31.mp4",
+        "userName": "User23",
+        "praise": "Incredibly gorgeous! ✨🌹",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 32,
+        "reelVideo": "../Reels/32.mp4",
+        "userName": "User23",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 33,
+        "reelVideo": "../Reels/33.mp4",
+        "userName": "akx.putf_",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 34,
+        "reelVideo": "../Reels/34.mp4",
+        "userName": "anahita_bhooshan",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 35,
+        "reelVideo": "../Reels/35.mp4",
+        "userName": "arey.sun",
+        "praise": "Pure elegance! 🌹💫",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 36,
+        "reelVideo": "../Reels/36.mp4",
+        "userName": "its_asmaul_nishita",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 37,
+        "reelVideo": "../Reels/37.mp4",
+        "userName": "its_asmaul_nishita",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 38,
+        "reelVideo": "../Reels/38.mp4",
+        "userName": "saniyagogia05",
+        "praise": "Truly stunning! 😍🔥",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 39,
+        "reelVideo": "../Reels/39.mp4",
+        "userName": "saniyagogia05",
+        "praise": "Mesmerizing! 💃",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 40,
+        "reelVideo": "../Reels/40.mp4",
+        "userName": "_theyylovtara__",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 41,
+        "reelVideo": "../Reels/41.mp4",
+        "userName": "_theyylovtara__",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 42,
+        "reelVideo": "../Reels/42.mp4",
+        "userName": "_theyylovtara__",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 43,
+        "reelVideo": "../Reels/41.mp4",
+        "userName": "_theyylovtara__",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 44,
+        "reelVideo": "../Reels/40.mp4",
+        "userName": "_theyylovtara__",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
+      },
+      {
+        "cardId": 45,
+        "reelVideo": "../Reels/39.mp4",
+        "userName": "_theyylovtara__",
+        "praise": "Utterly radiant! ☀️💖",
+        "likeIcon": "/path/to/like_icon.png",
+        "shareIcon": "/path/to/share_icon.png",
+        "commentIcon": "/path/to/comment_icon.png",
+        "reportIcon": "/path/to/report_icon.png"
       }
     ],
 
