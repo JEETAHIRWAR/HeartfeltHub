@@ -11,9 +11,6 @@ window.addEventListener('DOMContentLoaded', () => {
     // loadingIndicator.textContent = 'Loading...';
     document.body.appendChild(loadingIndicator);
 
-    // const firstReel = document.querySelector('.reel-video');
-    // firstReel.play();
-
     try {
         fetch('data.json')
             .then(response => {
