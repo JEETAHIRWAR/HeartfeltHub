@@ -211,6 +211,26 @@ window.addEventListener('DOMContentLoaded', () => {
 
                     secondCon.appendChild(imagesBox);
 
+                    // const imagesBox = document.querySelector('.imagesBox');
+                    const num = document.createElement('span');
+                    num.classList.add('number');
+                    // num.textContent = `0${item.id}`;
+                    if (item.id < 10) {
+                        num.textContent = `0${item.id}`;
+                    } else {
+                        num.textContent = item.id;
+                    }
+                    imagesBox.appendChild(num);
+
+                    imagesBox.addEventListener('mouseenter', () => {
+                        num.style.visibility = 'visible';
+                    });
+
+                    imagesBox.addEventListener('mouseleave', () => {
+                        num.style.visibility = 'hidden';
+                    });
+
+
                     imagesBox.addEventListener('click', () => {
                         const container1 = document.getElementById('container1');
                         container1.style.backgroundImage = `url(${item.image})`;
