@@ -214,7 +214,7 @@ window.addEventListener('DOMContentLoaded', () => {
                     // const imagesBox = document.querySelector('.imagesBox');
                     const num = document.createElement('span');
                     num.classList.add('number');
-                    // num.textContent = `0${item.id}`;
+
                     if (item.id < 10) {
                         num.textContent = `0${item.id}`;
                     } else {
@@ -223,10 +223,12 @@ window.addEventListener('DOMContentLoaded', () => {
                     imagesBox.appendChild(num);
 
                     imagesBox.addEventListener('mouseenter', () => {
+                        num.style.display = 'block';
                         num.style.visibility = 'visible';
                     });
 
                     imagesBox.addEventListener('mouseleave', () => {
+                        num.style.display = 'none';
                         num.style.visibility = 'hidden';
                     });
 
