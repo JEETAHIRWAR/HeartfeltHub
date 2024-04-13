@@ -235,14 +235,21 @@ window.addEventListener('DOMContentLoaded', () => {
                         const container1 = document.getElementById('container1');
                         container1.style.backgroundImage = `url(${item.image})`;
 
+                        imagesBox.style.transform = 'scale(0.9)';
+                        setTimeout(() => {
+                            imagesBox.style.transform = 'scale(1)';
+                        }, 300);
+
+
                         const containerWidth = secondCon.offsetWidth;
                         const boxWidth = imagesBox.offsetWidth;
-                        const scrollAmount = containerWidth - (boxWidth * 1.6);
+                        const scrollAmount = containerWidth - (boxWidth * 1.2);
                         secondCon.scrollBy({
                             top: 0,
                             left: scrollAmount,
                             behavior: 'smooth'
                         });
+
 
 
 
